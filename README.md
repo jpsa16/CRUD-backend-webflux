@@ -12,15 +12,15 @@
 ## Instalacion
 
 ```bash
-$ git clone https://github.com/jpsa16/CRUD-backend-webflux.git
+git clone https://github.com/jpsa16/CRUD-backend-webflux.git
 ```
 
-## Uso
+## Uso de comandos
 
 ```bash
-\$ mvn install
+mvn install
 
-\$ mvn spring-boot:run
+mvn spring-boot:run
 ```
 
 Para ver el swagger se tiene que ingresar a la siguiente ruta una vez se ha corrido el proyecto `http://localhost:8080/swagger-ui.html`
