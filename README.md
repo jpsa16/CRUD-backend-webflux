@@ -7,11 +7,20 @@
 
 - Java 11
 - MongoDB 4.4.0
+- Maven
 
 ## Instalacion
 
 ```bash
 $ git clone https://github.com/jpsa16/CRUD-backend-webflux.git
+```
+
+## Uso
+
+```bash
+\$ mvn install
+
+\$ mvn spring-boot:run
 ```
 
 Para ver el swagger se tiene que ingresar a la siguiente ruta una vez se ha corrido el proyecto `http://localhost:8080/swagger-ui.html`
