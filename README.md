@@ -11,7 +11,7 @@
 ## Instalacion
 
 ```bash
-$ git clone https://github.com/pgilad/spring-boot-webflux-swagger-starter.git
+$ git clone https://github.com/jpsa16/CRUD-backend-webflux.git
 ```
 
 Para ver el swagger se tiene que ingresar a la siguiente ruta una vez se ha corrido el proyecto `http://localhost:8080/swagger-ui.html`
